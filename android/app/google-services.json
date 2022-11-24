@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94609229232",
+    "project_id": "victory-81149",
+    "storage_bucket": "victory-81149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94609229232:android:0c01c4c8d7392b1d628275",
+        "android_client_info": {
+          "package_name": "com.csvenom.victory.victory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94609229232-0o1g2etfuuss48ja0hinrke5ml347t5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHz-sCzKzmBTaggtJCB-h8u0Yq6K9Imvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94609229232-0o1g2etfuuss48ja0hinrke5ml347t5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
